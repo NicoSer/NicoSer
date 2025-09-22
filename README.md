@@ -11,6 +11,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoSer&layout=compact&theme=github-compact"/>
 </div>
 
+# My biggest project
+<p>
+    <a href="https://github.com/NicoSer/sysinfo_TCP" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoSer&repo=sysinfo_TCP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
+</a>
+</p>
+
 ###
 
 <h2 align="left">Languages and Tools</h2>
