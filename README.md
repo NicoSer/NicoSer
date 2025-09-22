@@ -23,15 +23,13 @@
 ### Logiciel Code  
 <div align="center">  
 <img align="left"
- alt="Sublime Text" width="26px" src="https://www.sublimetext.com/images/logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Php" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" style="padding-right:10px;" />
+ alt="Sublime Text" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sublime-Dark.svg" style="padding-right:10px;" />
 </td><td valign="top" width="33%">
 
 
 
 ### Frameworks & Logiciel  
 <div align="center">  
-<img align="left" alt="BoostStrap" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Oracle VM VirtualBox" width="26px" src="https://dradisframework.com/images/integrations/deployment/virtualbox.png" style="padding-right:10px;" />
 <img align="left" alt="Mysql" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" style="padding-right:10px;" />
@@ -48,21 +46,16 @@
 ### Tools  
 <div align="center">  
 <img align="left" alt="Windows PowerShell" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Kali Linux" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Arch Linux" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" style="padding-right:10px;" />
 </div>  
 
 
 
 ### Languages  
 <div align="center">  
-<img align="left" alt="HTML5" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" style="padding-right:10px;" />
-<img align="left" alt="Php" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Cpp" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" style="padding-right:10px;" />
-<img align="left" alt="Css" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Lua" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="padding-right:10px;" />
 </div>
 
@@ -70,7 +63,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <center><p align="center"><a href="#">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&no-bg=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=NicoSer&no-bg=true"/>
 
 ###
 
@@ -81,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/Dev-TheNorthFace/Dev-TheNorthFace/blob/main/github-user-contribution.svg" width="100%"/>
+  <img src="https://github.com/NicoSer/NicoSer/blob/main/github-user-contribution.svg" width="100%"/>
 </div>
 
 ###
