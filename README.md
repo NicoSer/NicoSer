@@ -1,7 +1,8 @@
 ## Nicodex
 
 - 🤍 Bash, Java, JavaScript, Python
-- 🖤 @Passionate developer
+- 🖤 @Passionate in Efficiency
+- 💚 A good friend of Dev-TheNorthFace
 
 ###
 <div align="center">
