@@ -1,27 +1,14 @@
-## N💥RTH
+## Nicodex
 
-- 🤍 HTML5, JavaScript, Php, Java
+- 🤍 Bash, Java, JavaScript, Python
 - 🖤 @Passionate developer
-- ⭐ Former developer on Pocketmine software 3.0.0-4.0.0 (2021-2023)
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-TheNorthFace&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-TheNorthFace&layout=compact&theme=github-compact"/>
+  <img src="https://streak-stats.demolab.com?user=NicoSer&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoSer&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicoSer&layout=compact&theme=github-compact"/>
 </div>
-
-# My biggest project
-<p>
-    <a href="https://github.com/Dev-TheNorthFace/Pocketmine-Tuto" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Pocketmine-Tuto&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-<a href="https://github.com/Dev-TheNorthFace/PiggyCustomEnchant-SpigotEssential" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=PiggyCustomEnchant-SpigotEssential&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-<a href="https://github.com/Dev-TheNorthFace/Scripts-Bo1-T5-Zombies" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Scripts-Bo1-T5-Zombies&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-<a href="https://github.com/Dev-TheNorthFace/Anti-Cheat-Payday-2" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Anti-Cheat-Payday-2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-</p>
 
 ###
 
@@ -36,7 +23,7 @@
 ### Logiciel Code  
 <div align="center">  
 <img align="left"
- alt="Visual Studio Code" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" style="padding-right:10px;" />
+ alt="Sublime Text" width="26px" src="https://www.sublimetext.com/images/logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" style="padding-right:10px;" />
 </td><td valign="top" width="33%">
 
